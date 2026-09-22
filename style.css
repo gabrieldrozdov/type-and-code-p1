@@ -1,0 +1,17 @@
+@font-face {
+	font-family: "Shoes";
+	src: url("font.otf") format("opentype");
+}
+
+body {
+	/* background-color: yellow; */
+	font-family: "Shoes";
+	text-transform: uppercase;
+}
+
+p {
+	font-size: 5vw;
+	letter-spacing: -.25em;
+	line-height: .7em;
+	word-spacing: 4em;
+}
